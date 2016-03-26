@@ -1,5 +1,5 @@
-# HelloWorld
-This is DerekDick's first repository on Github.
-My name is DerekDick.
-I'm a freshman from School of Software Engineering in Tongji University in Shanghai, China.
-From now on, I'll learn to use Github.
+# Hello, World! #
+  **This is DerekDick's second edition on Github using maekdown syntax.**
+*I will try to learn more on my own, using github more amd more often.*
+## My Personal Website on WordPress ##
+[DerekDick's WordPress](http://www.derekdickwp.wordpress.com)
